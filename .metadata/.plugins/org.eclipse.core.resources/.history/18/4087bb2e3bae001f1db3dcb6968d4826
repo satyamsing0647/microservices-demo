@@ -1,0 +1,12 @@
+package com.coforge.training.shopstop.service;
+
+/*
+* Date   : 29 Nov 2024
+* Time   : 3:21:40 pm
+* Author : Satyam.3.Singh 
+* Project: order-service
+*/
+
+public interface ProductClient {
+
+}

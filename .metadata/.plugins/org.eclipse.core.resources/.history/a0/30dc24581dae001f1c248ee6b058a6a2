@@ -1,0 +1,15 @@
+package com.coforge.training.shopstop.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+/*
+* Date   : 29 Nov 2024
+* Time   : 12:05:04 pm
+* Author : Satyam.3.Singh 
+* Project: payment-service
+*/
+
+@RestController
+public class PaymentController {
+
+}

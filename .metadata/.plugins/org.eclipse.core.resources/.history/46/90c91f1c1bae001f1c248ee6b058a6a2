@@ -1,0 +1,12 @@
+package com.coforge.training.shopstop.service;
+
+/*
+* Date   : 29 Nov 2024
+* Time   : 11:50:35 am
+* Author : Satyam.3.Singh 
+* Project: payment-service
+*/
+
+public class CartRestConsumer {
+
+}

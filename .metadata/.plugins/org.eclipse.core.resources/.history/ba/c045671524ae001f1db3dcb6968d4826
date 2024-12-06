@@ -1,0 +1,12 @@
+package com.coforge.training.shopstop.model;
+
+/*
+* Date   : 29 Nov 2024
+* Time   : 1:01:25 pm
+* Author : Satyam.3.Singh 
+* Project: product-service
+*/
+
+public class Product {
+
+}

@@ -1,0 +1,12 @@
+package com.coforge.training.shopstop.controller;
+
+/*
+* Date   : 28 Nov 2024
+* Time   : 5:16:53 pm
+* Author : Satyam.3.Singh 
+* Project: cart-service
+*/
+
+public class CartController {
+
+}

@@ -1,0 +1,15 @@
+package com.coforge.training.shopstop.model;
+
+import jakarta.persistence.*;
+
+/*
+* Date   : 29 Nov 2024
+* Time   : 3:07:13 pm
+* Author : Satyam.3.Singh 
+* Project: order-service
+*/
+
+@Entity
+public class Order {
+
+}

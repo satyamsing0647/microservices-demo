@@ -1,0 +1,12 @@
+package com.coforge.training.shopstop.exception;
+
+/*
+* Date   : 29 Nov 2024
+* Time   : 1:07:33 pm
+* Author : Satyam.3.Singh 
+* Project: product-service
+*/
+
+public class ResourceNotFoundException {
+
+}
